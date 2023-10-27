@@ -104,7 +104,8 @@ The blue line here is the loss on training and le red line is the loss on valid
 
 ### Result and comparaison Preds to Masks
 
-This aim to a pretty decent result as we compare the masks:
+This aim to a pretty decent result as we compare the masks:  
+(First the predictions, then the thruth masks)
 
 <img src="./readme_img/pred_0.png" width="400"/> <img src="./readme_img/truth_0.png" width="400"/>
 
@@ -123,14 +124,3 @@ Contributions are welcome! If you have any suggestions, improvements, or find is
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
-
-@article{liu2019roadnet,
-  title={RoadNet: Learning to Comprehensively Analyze Road Networks in Complex Urban Scenes from High-Resolution Remotely Sensed Images},
-  author={Liu, Yahui and Yao, Jian and Lu, Xiaohu and Xia, Menghan and Wang, Xingbo and Liu, Yuan},
-  journal={IEEE Transactions on Geoscience and Remote Sensing},
-  volume={57},
-  number={4},
-  pages={2043--2056},
-  year={2019},
-  doi={10.1109/TGRS.2018.2870871}
-}
